@@ -1,6 +1,7 @@
 /** @TODO - Access the pokemon data from data.js */
 /**         and print to the console to check */
 
+console.log(pokemon);
 
 /** @TODO - Update the page data using a single pokemon */
 /**  
